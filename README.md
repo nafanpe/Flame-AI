@@ -49,5 +49,6 @@ InputLanguage=en-IN
 AssistantVoice=en-GB-RyanNeural
 ```
 
-#👤 Author
+👤 Author
+
 Crafted with passion by @nafanpe
