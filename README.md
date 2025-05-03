@@ -47,6 +47,7 @@ Username=YourName
 Assistantname=Flame
 InputLanguage=en-IN
 AssistantVoice=en-GB-RyanNeural
+```
 
 👤 Author
 Crafted with passion by @nafanpe
